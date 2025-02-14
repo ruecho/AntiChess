@@ -15,7 +15,7 @@ Ensure you have Java (JDK 7 or later) installed.
 
 ### Steps
 1. Clone the repository  
-git clone https://github.com/yourusername/antichess.git
+git clone https://github.com/yourusername/antichess.git  
 cd antichess
 
 2. Compile the project  
