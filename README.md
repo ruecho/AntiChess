@@ -14,12 +14,12 @@ your pieces or reach a stalemate. Unlike standard chess, capturing is mandatory 
 Ensure you have Java (JDK 7 or later) installed.
 
 ### Steps
-1. Clone the repository
+1. Clone the repository  
 git clone https://github.com/yourusername/antichess.git
 cd antichess
 
-2. Compile the project
+2. Compile the project  
 javac -d bin -sourcepath src src/AntiChessMain.java
 
-3. Run the game
+3. Run the game  
 java -cp bin AntiChessMain
