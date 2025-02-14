@@ -4,10 +4,10 @@ Antichess, also known as Losing Chess or Suicide Chess, is a popular variant of 
 your pieces or reach a stalemate. Unlike standard chess, capturing is mandatory when possible, and strategies revolve around self-sacrifice and forced exchanges.
 
 ## Features
-🎮  Full Antichess Implementation – Enforces all rules, including mandatory captures.
-🤖  Two Playing Modes: AI vs. Human / Human vs. Human
-✅  Move Validation – Ensures all moves adhere to Antichess rules.
-🖥️  Interactive UI – Designed for smooth gameplay and user-friendly experience.
+🎮  Full Antichess Implementation – Enforces all rules, including mandatory captures. <br>
+🤖  Two Playing Modes: AI vs. Human / Human vs. Human  <br>
+✅  Move Validation – Ensures all moves adhere to Antichess rules.  <br>
+🖥️  Interactive UI – Designed for smooth gameplay and user-friendly experience.  <br>
 
 ## Usage  
 ### Prerequisites
